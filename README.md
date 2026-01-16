@@ -1,8 +1,3 @@
 # Dr Gary Smith
-My personal website coming soon
+My personal website under construction.
 
-# Another Heading 
-
-text
-
-## A secondary heading
