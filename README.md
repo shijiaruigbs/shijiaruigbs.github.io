@@ -1,2 +1,2 @@
-# shijiaruigbs.github.io
-My personal website
+# Dr Gary Smith
+My personal website coming soon
